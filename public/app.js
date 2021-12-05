@@ -1,0 +1,1 @@
+(()=>{var e=["a","C","B","d",0,2],t=e.length;e.at(-1),e.at(9),e.concat([3,4,5],[6,7,"eight"]),e.concat("three","four"),t=e.copyWithin(0,4),document.getElementById("console").innerHTML=t,console.log(t)})();
